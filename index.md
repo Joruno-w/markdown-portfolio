@@ -1,14 +1,6 @@
----
-layout: default
----
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+1. 吃饭
+2. 睡觉
+3. 打豆豆
+- 1
+- 2
+- 3
